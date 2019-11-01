@@ -1,0 +1,156 @@
+{
+    "about": {
+        "heading": "About",
+        "content": [
+            {
+                "desc": [
+                    "Passionate Techie. Full Stack Developer. Specialise in UI and have experience building complex user interfaces using the latest web tooling and modern JavaScript frameworks.",
+                    "Passionate to work in a challenging job environment where i would be able to significantly contribute to the organisations requirement while enhancing my skill."
+                ]
+            }
+        ]
+    },
+    "experience": {
+        "heading": "Experience",
+        "content": [
+            {
+                "title": "Litmus7",
+                "img": "https://media.licdn.com/dms/image/C510BAQEZC_qd065blA/company-logo_100_100/0?e=1580342400&v=beta&t=2nW6d1N3pHsaHH-kCeINrmtOSQwWza8BOgpi62PvWjE",
+                "subtitle": "Senior Software Engineer",
+                "date": "Nov 2018 – Present",
+                "desc": [
+                    "Part of Walmart Mexico - Engineering team",
+                    "Working on the development of Sam's Club Mexico e-commerce application."
+                ]
+            },
+            {
+                "title": "Merck Life Science",
+                "img": "https://media.licdn.com/dms/image/C4E0BAQHgoFDy-EOrsA/company-logo_100_100/0?e=1580342400&v=beta&t=3bH5bZI2q9zdYbDylDhMPMFbPzbW6WDsR_iekGnivQQ",
+                "subtitle": "Senior Software Engineer",
+                "date": "Mar 2018 – Nov 2018",
+                "desc": [
+                    "Worked on Bioprocess Digitization (Software & Automation).",
+                    "Worked as Subject Matter Expert In UI."
+                ]
+            },
+            {
+                "title": "QBurst",
+                "img": "https://media.licdn.com/dms/image/C510BAQHO5lgpq-KY8w/company-logo_100_100/0?e=1580342400&v=beta&t=jOwSNn_aDXAyrOehlBfIsc0Ms4qIrrJChBWpVDMZCtw",
+                "subtitle": "Software Engineer",
+                "date": "Jun 2014 - Mar 2018",
+                "desc": [
+                    "Worked on the complete re-platform and redesign of e-Commerce application using microservices architecture.",
+                    "Developed a universal(isomorphic) e-commerce website.",
+                    "Worked as a full-stack developer on e-commerce application maintenance.",
+                    "Worked on a development portal website for a major Canadian client.",
+                    "Developed a job portal website."
+                ]
+            }
+        ]
+    },
+    "education": {
+        "heading": "Education",
+        "content": [
+            {
+                "title": "Rajiv Gandhi Institute Of Technology",
+                "img": "https://media.licdn.com/dms/image/C4E0BAQEHqwpISSljVQ/company-logo_100_100/0?e=1580342400&v=beta&t=N5IOdInRmmq0UJTqE4u7HGd9klg7QBxoVfD2IHvhhXk",
+                "subtitle": "Bachelor’s Degree . Computer Science",
+                "date": "2010 - 2014"
+            },
+            {
+                "title": "Alphonsa Residential School Bharananganam",
+                "img": "https://static-exp1.licdn.com/sc/h/8zyvax2j09k9jfspjn2wi17un",
+                "subtitle": "Computer Science",
+                "date": "2007 - 2009"
+            },
+            {
+                "title": "St. Gregorios High School, Mumbai",
+                "img": "https://static-exp1.licdn.com/sc/h/8zyvax2j09k9jfspjn2wi17un",
+                "subtitle": "High School . Computer Science",
+                "date": "2005 - 2007"
+            }
+        ]
+    },
+    "projects": {
+        "heading": "Projects",
+        "content": [
+            {
+                "title": "Sams Club , Mexico",
+                "date": "Jan 2019 – Present",
+                "desc": [
+                    "SAMs club application is an eCommerce platform for purchasing items online for club members. It's a part of wholesale club comes under the No:1 retailer in the world Walmart."
+                ],
+                "link": {
+                    "text": "See project",
+                    "link": "https://www.sams.com.mx/"
+                }
+            },
+            {
+                "title": "Uniqlo",
+                "desc": [
+                    "E commerce mobile site in angularjs and backend in Nodejs.",
+                    "The goal of this project is to develop and maintain mobile SPA, CMS and Catalog admin applications.",
+                    "High-level scope of work is as defined below -",
+                    "Providing support to fix issues/bugs in the Mobile SPA, CMS Admin and Catalog application and maintain the applications.",
+                    "Perform enhancements in the mobile SPA, CMS Admin and Catalog applications."
+                ],
+                "link": {
+                    "text": "See project",
+                    "link": "https://www.uniqlo.com/jp/"
+                }
+            },
+            {
+                "title": "E-commerce Website in ReactJs",
+                "desc": [
+                    "Developed an Universal (Isomorphic) react Website using ReactJS and back end in NodeJs."
+                ]
+            },
+            {
+                "title": "Development Portal Website",
+                "desc": [
+                    "Developed using ASP.NET MVC.",
+                    "This application gives people the power to search, research and connect directly to new home developments. With this we can search a home development by price, city, neighbourhood, or maintenance fees. We can save these searches and can ask Team to send an alert each time new and relevant information becomes available. There is a communication forum present in the web site which helps the users to get connected and pass information."
+                ]
+            },
+            {
+                "title": "Job Portal Website",
+                "desc": [
+                    "Job requirement included writing backend services in c# and writing client side scripts. Web, iOS and Android application for customers in need of service providers for their various household or office needs. If the customer has a requirement, he/she needs to register with the application and post the job. The job will be notified to those Service providers who are within the vicinity where the job is in need.The notified Services providers can either send quotes or even request for meeting. In case they do not need the requirement, they can simply reject the request.If the quote is accepted and the job completed, either users can send in feedback and ratings."
+                ]
+            }
+        ]
+    },
+    "certificates": {
+        "heading": "Licenses & Certifications",
+        "content": [
+            {
+                "title": "MongoDB for nodejs developers",
+                "subtitle": "MongoDB, Inc.",
+                "img": "https://media.licdn.com/dms/image/C560BAQGC029P7UbAMQ/company-logo_100_100/0?e=1580342400&v=beta&t=zGByqQV_BcS7-6pgy4q9FBHj-uppUuRqhmq2RZLCd9M",
+                "date": "Issued May 2016",
+                "link": {
+                    "text": "See credential",
+                    "link": "https://university.mongodb.com/course_completion/9880592301634b459d0fe2223e206208"
+                }
+            },
+            {
+                "title": "Certified SAFe® 4 Agilist",
+                "subtitle": "Scaled Agile, Inc.",
+                "img": "https://media.licdn.com/dms/image/C560BAQGbgbup4QakKw/company-logo_100_100/0?e=1580342400&v=beta&t=pH1zeHWSC3PciXzqBpZtdwM1Abjv0SjlNrEas5oAbT0",
+                "link": {
+                    "text": "See credential",
+                    "link": "https://www.youracclaim.com/badges/432da44b-f785-4fcc-a05b-cd447f4b37d8/linked_i"
+                }
+            },
+            {
+                "title": "edX Honor Code Certificate for Introduction to MongoDB using the MEAN Stack",
+                "subtitle": "edX",
+                "img": "https://media.licdn.com/dms/image/C4D0BAQHQvZvCrPVsfA/company-logo_100_100/0?e=1580342400&v=beta&t=jocd4eKqwB8WPHkNcrfdmM8uNdMt9RCOkceqA_lyXw8",
+                "link": {
+                    "text": "See credential",
+                    "link": "https://courses.edx.org/certificates/85a33548a2d24086a93e20a4db78f65c"
+                }
+            }
+        ]
+    }
+}
